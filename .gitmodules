@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "CMatching"]
+	path = CMatching
+	url = https://github.com/cran/CMatching
+[submodule "OSDR"]
+	path = OSDR
+	url = https://github.com/cran/OSDR
+[submodule "marradistrees"]
+	path = marradistrees
+	url = https://github.com/cran/marradistrees
+[submodule "voigt"]
+	path = voigt
+	url = https://github.com/cran/voigt
